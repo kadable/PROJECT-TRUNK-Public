@@ -1,0 +1,13 @@
+abcdefghij
+klmnopqrst
+uvwxyz
+ABCDEFGHIJ
+KLMNOPQRST
+UVWXYZ
+.!"%()*+,-
+/:;<=>?
+1234567890
+PRESS SPACE 
+
+
+

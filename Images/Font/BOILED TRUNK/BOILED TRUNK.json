@@ -1,0 +1,51 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		"abcdefghij",
+		"klmnopqrst",
+		"uvwxyz",
+		"ABCDEFGHIJ",
+		"KLMNOPQRST",
+		"UVWXYZ",
+		".!\"%()*+,-",
+		"/:;<=>?",
+		"1234567890",
+		" ",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"glyph-color": "black",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 28,
+	"glyph-height": 34,
+	"glyph-ofs-x": 2,
+	"glyph-ofs-y": 2,
+	"glyph-sep-x": 2,
+	"glyph-sep-y": 2,
+	"glyph-base-x": 0,
+	"glyph-baseline": 28,
+	"glyph-spacing": 4,
+	"font-is-mono": false,
+	"font-em-square": 192,
+	"font-line-gap": 0,
+	"font-ascend": 352,
+	"font-descend": 128,
+	"font-px-size": 16,
+	"font-name": "BOILED TRUNK",
+	"font-author": "kadable (Kade Hennessy)",
+	"font-copy": "",
+	"font-version": "Version 1.0",
+	"font-desc": "A cool doodely font!",
+	"font-license": "Give me credit if you use it, mention my full name and link to itch.io/kadable.",
+	"font-license-url": "",
+	"font-sample-text": "The (unrealistically) quick brown fox leaps majestically over the lazy dog who probably hasn't work a day in their life! Harumph!",
+	"font-preview-text": [
+		"hello loser"
+	]
+}
